@@ -22,8 +22,8 @@
     "coreTranslation": true,
     "languages": [
       {
-        "lang": "ru",
-        "name": "Russian",
+        "lang": "uk",
+        "name": "Ukrainian",
         "path": "core/uk.json"
       }
     ],
