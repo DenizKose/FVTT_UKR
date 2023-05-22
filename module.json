@@ -22,11 +22,6 @@
 	"coreTranslation": false,
 	"esmodules": [],
 	"styles": [],
-	"scripts": [
-		"./scripts/babele.js",
-		"./scripts/config.js",
-		"./scripts/init.js"
-	],
 	"packs": [],
 	"relationships": {
 		"requires": [
