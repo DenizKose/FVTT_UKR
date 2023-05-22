@@ -19,25 +19,14 @@
 		"verified": "10.291",
 		"maximum": "10"
 	},
-	"coreTranslation": false,
-	"esmodules": [],
-	"styles": [],
-	"packs": [],
-	"relationships": {
-		"requires": [
-			{
-				"id": "lib-wrapper",
-				"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
-				"type": "module",
-				"compatibility": {}
-			},
-			{
-				"id": "babele",
-				"manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
-				"type": "module"
-			}
-		]
-	},
+    "coreTranslation": true,
+    "languages": [
+      {
+        "lang": "ru",
+        "name": "Russian",
+        "path": "i18n/core/foundry.json"
+      },
+    ],
     "url": "https://github.com/DenizKose/FVTT_UKR",
 	"manifest": "https://github.com/DenizKose/FVTT_UKR/raw/master/module.json",
 	"download": "https://github.com/DenizKose/FVTT_UKR/archive/refs/heads/master.zip"
