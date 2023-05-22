@@ -1,0 +1,46 @@
+{
+	"id": "fvtt-ukr",
+	"name": "fvtt-ukr",
+	"title": "FVTT Ukrainian Translation | Український переклад FVTT",
+	"description": "Модуль переклада.",
+	"authors": [
+		{
+			"name": "Deniz",
+			"discord": "Deniz#6289",
+			"community": "https://discord.gg/6ztXCUTUYw"
+		}
+	],
+	"flags": {},
+	"version": "0.0.10",
+	"minimumCoreVersion": "10",
+	"compatibleCoreVersion": "10",
+	"compatibility": {
+		"minimum": "10",
+		"verified": "10.291",
+		"maximum": "10"
+	},
+	"coreTranslation": false,
+	"esmodules": [],
+	"styles": [],
+	"scripts": [
+		"./scripts/babele.js",
+		"./scripts/config.js",
+		"./scripts/init.js"
+	],
+	"packs": [],
+	"relationships": {
+		"requires": [
+			{
+				"id": "lib-wrapper",
+				"manifest": "https://github.com/ruipin/fvtt-lib-wrapper/releases/latest/download/module.json",
+				"type": "module",
+				"compatibility": {}
+			},
+			{
+				"id": "babele",
+				"manifest": "https://gitlab.com/riccisi/foundryvtt-babele/raw/master/module/module.json",
+				"type": "module"
+			}
+		]
+	}
+}
