@@ -1,8 +1,8 @@
 {
 	"id": "fvtt-ukr",
 	"name": "fvtt-ukr",
-	"title": "FVTT Ukrainian Translation | Український переклад FVTT",
-	"description": "Модуль переклада.",
+	"title": "💖 Український переклад | Ukrainian Translation",
+	"description": "Солов'їна у Foundry VTT",
 	"authors": [
 		{
 			"name": "Deniz",
@@ -11,7 +11,7 @@
 		}
 	],
 	"flags": {},
-	"version": "0.2.10",
+	"version": "0.3.10",
 	"minimumCoreVersion": "10",
 	"compatibleCoreVersion": "10",
 	"compatibility": {
