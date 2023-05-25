@@ -10,7 +10,6 @@
 			"community": "https://discord.gg/6ztXCUTUYw"
 		}
 	],
-	"flags": {},
 	"version": "0.5.10",
 	"minimumCoreVersion": "10",
 	"compatibleCoreVersion": "11",
@@ -19,6 +18,7 @@
 		"verified": "10.291",
 		"maximum": "11"
 	},
+	"styles": ["utils/styles/main.css"],
     "coreTranslation": true,
     "languages": [
       {
