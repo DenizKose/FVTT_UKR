@@ -2,7 +2,7 @@
 /*  Root                                     */
 /* ----------------------------------------- */
 :root {
-    --font-primary: 'Ubuntu', sans-serif;
+    --font-primary: 'Source Sans Pro', sans-serif;
 }
 
 /* ----------------------------------------- */
@@ -20,3 +20,19 @@
     font-weight: 700;
     font-style: normal;
 }
+
+
+@font-face {
+    font-family: 'Source Sans Pro', sans-serif;
+    src: url('../fonts/SSP/SourceSansPro-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
+@font-face {
+    font-family: 'Source Sans Pro', sans-serif;
+    src: url('../fonts/SSP/SourceSansPro-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+
+
