@@ -902,7 +902,7 @@
     "KEYBINDINGS.MustBeArray": "Необхідно передати масив значень",
     "KEYBINDINGS.ErrorProtectedKey": "Неможливо встановити захищену клавішу \"{key}\" як прив'язку",
     "KEYBINDINGS.ErrorIllegalModifier": "Запитаний модифікатор \"{key}\" не є допустимим значенням в KeyboardManager.MODIFIER_KEYS",
-    "KEYBINDINGS.ErrorReservedModifier": "Неможливо встановити \"{key}\" як прив'язку, оскільки вона є зарезервована модифікатором для цієї дії.",
+    "KEYBINDINGS.ErrorReservedModifier": "Неможливо встановити \"{key}\" як прив'язку, оскільки вона є зарезервована модифікатором для цієї дії",
     "KEYBINDINGS.FocusChat": "Фокусуватись на чаті",
     "LIGHT.ConfigTitle": "",
     "LIGHT.NavLabel": "",
