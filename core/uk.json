@@ -2224,5 +2224,6 @@
     "CONTROLS.TilePlaceHeading": "Розмістити",
     "CONTROLS.DrawingPolyP": "<span class=\"reference\">ЛКМ + Перетягніть</span> щоб почати, потім <span class=\"reference\">ЛКМ</span> щоб додати точки. <span class=\"reference\">Двічі клацніть</span> , щоб завершити.",
     "CONTROLS.WallInvisibleBlocks": "Рух і слух",
-    "CONTROLS.DoorBlocks": "Рух, зір і слух, якщо не відкрита"
+    "CONTROLS.DoorBlocks": "Рух, зір і слух, якщо не відкрита",
+    "CONTROLS.CommonDelete": "Видалити"
 }
