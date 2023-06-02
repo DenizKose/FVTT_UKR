@@ -2,7 +2,7 @@
 	"id": "fvtt-ukr",
 	"name": "fvtt-ukr",
 	"title": "💖 Український переклад | Ukrainian Translation",
-	"description": "Солов'їна у Foundry VTT",
+	"description": "Солов'їна у Foundry VTT \n11.299",
 	"authors": [
 		{
 			"name": "Deniz",
@@ -10,7 +10,7 @@
 			"community": "https://discord.gg/6ztXCUTUYw"
 		}
 	],
-	"version": "0.5.18",
+	"version": "0.5.19",
 	"minimumCoreVersion": "10",
 	"compatibleCoreVersion": "11",
 	"compatibility": {
