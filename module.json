@@ -10,7 +10,7 @@
 			"community": "https://discord.gg/6ztXCUTUYw"
 		}
 	],
-	"version": "0.5.19",
+	"version": "1.0.0",
 	"minimumCoreVersion": "10",
 	"compatibleCoreVersion": "11",
 	"compatibility": {
