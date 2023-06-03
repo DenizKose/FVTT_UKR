@@ -9,9 +9,7 @@
 
 - Перейти в головному меню до Add-on Modules
 - Клацнути Install Module
-- У Manifest URL вставити наступне посилання: <code>
-https://raw.githubusercontent.com/DenizKose/FVTT_UKR/master/module.json
-</code>
+- У Manifest URL вставити наступне посилання: <code>https://raw.githubusercontent.com/DenizKose/FVTT_UKR/master/module.json</code>
 - Клацнути Install і почекати завантаження
 - У налаштуваннях программи (у 11 версії зверху у правій стороні ⚙️) знайти Default Language та обрати Українскьий переклад
 - Зберегти та перезавантижити сторінку
