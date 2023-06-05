@@ -2,7 +2,7 @@
 
 |  Основний переклад |  Стан |  Версія FVTT |  Версія перекладу |
 | ------------ | ------------ | ------------ | ------------ |
-|  **[FVTT](https://weblate.dungeonmaster.monster/engage/foundry-virtual-tabletop/uk/)** |  [![Стан перекладу](https://weblate.dungeonmaster.monster/widgets/foundry-virtual-tabletop/uk/fvtt-core/svg-badge.svg)](https://weblate.dungeonmaster.monster/engage/foundry-virtual-tabletop/uk/) | **11.299** | 1.0.1 "Богдан Хмельницький"
+|  **[FVTT](https://weblate.dungeonmaster.monster/engage/foundry-virtual-tabletop/uk/)** |  [![Стан перекладу](https://weblate.dungeonmaster.monster/widgets/foundry-virtual-tabletop/uk/fvtt-core/svg-badge.svg)](https://weblate.dungeonmaster.monster/engage/foundry-virtual-tabletop/uk/) | **11.300** | 1.0.2 "Богдан Хмельницький"
 
 
 # Встановлення
