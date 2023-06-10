@@ -10,12 +10,12 @@
 			"community": "https://discord.gg/6ztXCUTUYw"
 		}
 	],
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"minimumCoreVersion": "10",
 	"compatibleCoreVersion": "11",
 	"compatibility": {
 		"minimum": "10",
-		"verified": "11.300",
+		"verified": "11.301",
 		"maximum": "11"
 	},
 	"styles": ["utils/styles/main.css"],
