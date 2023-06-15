@@ -2,15 +2,16 @@
 	"id": "fvtt-ukr",
 	"name": "fvtt-ukr",
 	"title": "💖 Український переклад | Ukrainian Translation",
-	"description": "Солов'їна у Foundry VTT \n11.300",
+	"description": "Солов'їна у Foundry VTT \n11.301",
 	"authors": [
 		{
 			"name": "Deniz",
 			"discord": "denizkose#6289",
-			"community": "https://discord.gg/6ztXCUTUYw"
+			"community": "https://discord.gg/6ztXCUTUYw",
+			"url": "https://t.me/dk_denizkose"
 		}
 	],
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"minimumCoreVersion": "10",
 	"compatibleCoreVersion": "11",
 	"compatibility": {
@@ -20,6 +21,13 @@
 	},
 	"styles": ["utils/styles/main.css"],
     "coreTranslation": true,
+	"media": [
+		{
+		  "type": "setup",
+		  "name": "Setup Screen",
+		  "url": "modules/fvtt-ukr/img/logo.webp"
+		}
+	  ],
     "languages": [
       {
         "lang": "uk",
