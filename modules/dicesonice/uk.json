@@ -231,6 +231,7 @@
     "DICESONICE.sfxOptionsIsGlobal": "(Лише GM) Увімкнути цей SFX для всіх гравців",
     "DICESONICE.sfxOptionsCustomSound": "Виберіть звуковий файл",
     "DICESONICE.sfxOptionsMacro": "Виберіть макрос",
+    "DICESONICE.sfxOptionsMuteSound": "Вимкнути звук",
     "DICESONICE.RollableAreaConfig": "Налаштування області, що згортається",
     "DICESONICE.RollableAreaConfigTitle": "Налаштування згорнутої області",
     "DICESONICE.RollableAreaConfigHint": "Визначте частину екрана, яка показуватиме тривимірну анімацію кубиків. Це налаштування не впливатиме на інших гравців.",
@@ -262,5 +263,6 @@
     "DICESONICE.TourMainTitleShowBackup": "Резервне копіювання та відновлення",
     "DICESONICE.TourMainContentShowBackup": "Ви можете зберегти свої налаштування в кількох файлах збереження. Це корисно, якщо ви бажаєте швидко перемикатися між кількома створеними настроюваними виглядами.",
     "DICESONICE.TourMainTitleEndTour": "Кінець туру",
-    "DICESONICE.TourMainContentEndTour": "Якщо вам потрібна додаткова інформація, перегляньте нашу довідкову сторінку у вікні керування модулями. Щасливого руху!"   
+    "DICESONICE.TourMainContentEndTour": "Якщо вам потрібна додаткова інформація, перегляньте нашу довідкову сторінку у вікні керування модулями. Щасливого руху!",
+    "DICESONICE.PlayAnimationOutline": "Анімація: контур"
 }
