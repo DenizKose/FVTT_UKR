@@ -5,6 +5,10 @@
 |  **[FVTT](https://weblate.dungeonmaster.monster/engage/foundry-virtual-tabletop/uk/)** |  [![Стан перекладу](https://weblate.dungeonmaster.monster/widgets/foundry-virtual-tabletop/uk/fvtt-core/svg-badge.svg)](https://weblate.dungeonmaster.monster/engage/foundry-virtual-tabletop/uk/) | **11.302** | 1.0.5 "Богдан Хмельницький"
 
 
+|  Модуль |  Стан |  Версія модуля |  Останнє оновлення |
+| ------------ | ------------ | ------------ | ------------ |
+|  **[Dice So Nice](https://weblate.dungeonmaster.monster/projects/foundry-virtual-tabletop/dice-so-nice/uk/)** |  [![Стан перекладу](https://weblate.dungeonmaster.monster/widgets/foundry-virtual-tabletop/uk/dice-so-nice/svg-badge.svg)](https://weblate.dungeonmaster.monster/engage/foundry-virtual-tabletop/uk/) | **4.6.8** | 22.06.23
+
 # Встановлення
 
 - Перейти в головному меню до **Add-on Modules**
