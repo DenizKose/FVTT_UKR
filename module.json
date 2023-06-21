@@ -2,7 +2,7 @@
 	"id": "fvtt-ukr",
 	"name": "fvtt-ukr",
 	"title": "💖 Український переклад | Ukrainian Translation",
-	"description": "Солов'їна у Foundry VTT \n11.301",
+	"description": "Солов'їна у Foundry VTT \n11.302",
 	"authors": [
 		{
 			"name": "Deniz",
@@ -11,12 +11,12 @@
 			"url": "https://t.me/dk_denizkose"
 		}
 	],
-	"version": "1.0.4",
+	"version": "1.0.5",
 	"minimumCoreVersion": "10",
 	"compatibleCoreVersion": "11",
 	"compatibility": {
 		"minimum": "10",
-		"verified": "11.301",
+		"verified": "11.302",
 		"maximum": "11"
 	},
 	"styles": ["utils/styles/main.css"],
@@ -33,6 +33,11 @@
         "lang": "uk",
         "name": "Ukrainian",
         "path": "core/uk.json"
+      },
+      {
+        "lang": "uk",
+        "name": "Ukrainian",
+        "path": "modules/dicesonice/uk.json"
       }
     ],
     "url": "https://github.com/DenizKose/FVTT_UKR",
